@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 你好 👋
+     📫联系方式
+wx：mwc1102428
+邮箱：1044926436@qq.com
+🌱学习各位大佬📚
 <!--
 **yuan5379/yuan5379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
